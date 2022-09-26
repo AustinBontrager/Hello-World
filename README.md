@@ -16,13 +16,13 @@ Hello World Sample Project
 This is only a practice repository.
 
 ## HOW TO RUN PROGRAM
-Again, This is only a sample.
+Again, *This is only a sample.*
 
 ## FILES USED
 None yet.
 
 ## ADDITIONAL DOCUMENTATION
-There is no additional documentation at this time. Here is some **Bold** text. for you to enjoy!
+There is no additional documentation at this time. Here is some **Bold** text for you to enjoy!
 
 ## VERSIONING
-This is just a sample
+~~This is just a sample~~  This is only a sample.
